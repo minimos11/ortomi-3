@@ -3,3 +3,4 @@ That flashes a ESP8266EX chip with custom firmware but I want to modify the firm
 So I can add new features. <br>
 The source code for the firmware is ether just python or micropython. <br>
 I have already extracted the exe and got the firmwar.bin. <br>
+Now I just need to find a way to decompile it. <br>
